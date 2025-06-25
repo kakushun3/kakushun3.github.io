@@ -22,10 +22,6 @@ highlight_name: true
 # Role/position/tagline
 role: Master
 
-# Mail
-Mail✉️: kakushun3@gmail.com
-Mail✉️: guo.jun.730@s.kyushu-u.ac.jp
-
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Kyushu university 
@@ -44,6 +40,10 @@ profiles:
     url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/kakushun3
+    
+📮 [kakushun3@gmail.com](mailto:kakushun3@gmail.com)  
+📮 [guo.jun.730@s.kyushu-u.ac.jp](mailto:guo.jun.730@s.kyushu-u.ac.jp)
+
 
 interests:
   - Artificial Intelligence
