@@ -56,7 +56,7 @@ education:
     date_end: 2023-06-01
     summary: |
       GPA: 3.2
-  - area: Master Plasma physics
+  - area: Master Plasma and Quantum Science and Engineering
     institution: Kyushu university
     date_start: 2025-04-01
     date_end: 2027-03-01
