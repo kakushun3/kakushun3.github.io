@@ -67,17 +67,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: 
-    institution: 
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
