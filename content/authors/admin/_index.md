@@ -22,6 +22,10 @@ highlight_name: true
 # Role/position/tagline
 role: Master
 
+# Mail
+Mail✉️: kakushun3@gmail.com
+Mail✉️: guo.jun.730@s.kyushu-u.ac.jp
+
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Kyushu university 
