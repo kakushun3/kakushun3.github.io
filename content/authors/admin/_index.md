@@ -24,7 +24,7 @@ role: Master
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Kyushu university Quest
+  - name: Kyushu university 
     url: [http://www.triam.kyushu-u.ac.jp/ideiken/index.html]
 
 # Social network links
