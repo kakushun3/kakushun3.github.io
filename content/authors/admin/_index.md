@@ -3,7 +3,8 @@
 title: 郭 俊
 
 # Name pronunciation (optional)
-name_pronunciation: Guo Jun
+name_pronunciation:｜
+Guo Jun<br> カク　シュン<br> kaku shun
 
 # Full name (for SEO)
 first_name: Jun
