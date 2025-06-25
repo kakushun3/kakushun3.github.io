@@ -50,13 +50,13 @@ interests:
 
 
 education:
-  - area: 
+  - area: Bachelor Rail Transit Signal and Control
     institution: North University of China
     date_start: 2019-09-10
     date_end: 2023-06-01
     summary: |
       GPA: 3.2
-  - area: 
+  - area: Master Plasma and Quantum Science and Engineering
     institution: Kyushu university
     date_start: 2025-04-01
     date_end: 2027-03-01
