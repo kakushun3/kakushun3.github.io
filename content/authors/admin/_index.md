@@ -50,13 +50,13 @@ interests:
 
 
 education:
-  - area: BEng Rail Transit Signal and Control
+  - area: 
     institution: North University of China
     date_start: 2019-09-10
     date_end: 2023-06-01
     summary: |
       GPA: 3.2
-  - area: MEng Plasma and Quantum Science and Engineering
+  - area: 
     institution: Kyushu university
     date_start: 2025-04-01
     date_end: 2027-03-01
