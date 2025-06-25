@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'kakushun3@gmail.com'
+    url: 'mailto:kakushun3@gmail.com'
     label: mail
   - icon: at-symbol
     url: 'mailto:guo.jun.730@s.kyushu-u.ac.jp'
@@ -44,9 +44,10 @@ profiles:
 
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Tokamak Edge and SOL Physics
+  - MHD Instabilities and Disruptions
+  - Computational Plasma Physics
+
 
 education:
   - area: PhD Artificial Intelligence
