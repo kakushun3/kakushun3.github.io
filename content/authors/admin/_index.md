@@ -30,11 +30,12 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
+  - icon: mdi:gmail
     url: 'mailto:kakushun3@gmail.com'
-    label: E-mail Me
+    label: kakushun3@gmail.com
   - icon: at-symbol
     url: 'mailto:guo.jun.730@s.kyushu-u.ac.jp'
+    label: guo.jun.730@s.kyushu-u.ac.jp
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
