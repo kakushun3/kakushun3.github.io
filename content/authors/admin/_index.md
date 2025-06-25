@@ -50,28 +50,25 @@ interests:
 
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Bachelor Engineering in Rail Transit Signal and Control
+    institution: North university of China
+    date_start: 2019-09-10
+    date_end: 2023-06-01
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      GPA: 3.2
+  - area: Master Plasma physics
+    institution: Kyushu university
+    date_start: 2025-04-01
+    date_end: 2027-03-01
     summary: |
-      GPA: 3.8/4.0
+      GPA: 
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+    institution: 
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -141,11 +138,11 @@ skills:
 
 languages:
   - name: English
-    percent: 100
-  - name: Chinese
     percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Chinese
+    percent: 100
+  - name: Japanese
+    percent: 75
 
 # Awards.
 #   Add/remove as many awards below as you like.
