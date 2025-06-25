@@ -180,7 +180,7 @@ awards:
 Hello! I’m **Jun Guo (郭俊)**, currently a master's student at **Kyushu University**, Japan, specializing in **plasma
 and quantum engineering**. My current research focuses on **magnetic fluctuations and heat transport in the Scrape-
 Off Layer (SOL) of the spherical tokamak QUEST**, where I apply fast movable probes and diagnostics to investigate 
-edge plasma behavior.
+edge plasma behavior. 
 Before joining Kyushu University, I earned my bachelor's degree in **Rail Transportation Signal and Control** at 
 **North University of China**. Through both academic training and hands-on research, I developed strong skills in 
 data acquisition, signal analysis, and computational modeling.
