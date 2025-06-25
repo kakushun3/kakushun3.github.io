@@ -50,7 +50,7 @@ interests:
 
 
 education:
-  - area: Bachelor Rail Transit Signal and Control
+  - area: BEng Rail Transit Signal and Control
     institution: North University of China
     date_start: 2019-09-10
     date_end: 2023-06-01
