@@ -38,7 +38,7 @@ profiles:
   - icon: 📹
     url: https://www.instagram.com/
   - icon: 🐱
-    url: (https://github.com/kakushun3)
+    url: https://github.com/kakushun3
 
 interests:
   - Artificial Intelligence
