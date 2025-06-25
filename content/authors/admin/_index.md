@@ -3,8 +3,7 @@
 title: 郭 俊
 
 # Name pronunciation (optional)
-name_pronunciation: 
-  Guo Jun<br>カク　シュン
+name_pronunciation: Guo Jun
 
 # Full name (for SEO)
 first_name: Jun
@@ -12,7 +11,7 @@ last_name: Guo
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🍃
 
 # Is this the primary user of the site?
 superuser: true
