@@ -30,14 +30,15 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+  - icon: 📮
+    url: 'mailto:kakushun3@gmail.com'
+    url: 'guo.jun.730@s.kyushu-u.ac.jp'
     label: E-mail Me
-  - icon: brands/x
+  - icon: 🕊️
     url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
+  - icon: 📹
     url: https://www.instagram.com/
-  - icon: brands/github
+  - icon: 🐱
     url: https://github.com/gcushen
   - icon: brands/linkedin
     url: https://www.linkedin.com/
