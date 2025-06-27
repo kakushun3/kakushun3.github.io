@@ -37,7 +37,7 @@ profiles:
     url: 'mailto:guo.jun.730@s.kyushu-u.ac.jp'
     label: mail
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/kakushun3/profilecard/?igsh=MTJ0c3Vzdm1iNmpqaQ==
   - icon: brands/github
     url: https://github.com/kakushun3
     
