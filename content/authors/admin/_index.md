@@ -168,5 +168,12 @@ awards:
 
 ## About Me 
 
-FFFFFFFF
+## About Me
+
+I am a master’s student at Kyushu University, majoring in Plasma and Quantum Science and Engineering. My research focuses on plasma transport and magnetic turbulence in the Scrape-Off Layer (SOL) of the spherical tokamak QUEST.
+
+With a strong interest in magnetic confinement fusion, I aim to understand the physical mechanisms behind fluctuation-driven transport and to contribute to the development of next-generation fusion devices. I’m currently working with high-speed diagnostic probes and calorimetry to investigate plasma behavior at the edge region.
+
+I’m also preparing for Ph.D. applications abroad and actively pursuing research opportunities in plasma physics and fusion energy.
+
 
