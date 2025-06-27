@@ -35,11 +35,13 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+       I’m currently a master’s student at Kyushu University, majoring in Plasma and Quantum Science and Engineering. My research focuses on magnetic turbulence and energy transport in the Scrape-Off Layer (SOL) of the spherical tokamak QUEST.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+I investigate magnetic fluctuations in the SOL using a fast movable probe (FMP) combined with new diagnostic techniques. By comparing experimental results with simulations, I aim to clarify the generation mechanisms of magnetic fluctuations and their impact on cross-field transport.
+
+I also develop and apply a heat flux measurement system using a calorimeter array on the divertor plate, to quantitatively evaluate the SOL width and assess how upstream fluctuations influence downstream energy flow.
+
+Feel free to contact me for collaboration or discussion on tokamak diagnostics and turbulence studies😊
     design:
       columns: '1'
   - block: collection
