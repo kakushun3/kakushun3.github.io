@@ -41,7 +41,7 @@ I investigate magnetic fluctuations in the SOL using a fast movable probe (FMP) 
 
 I also develop and apply a heat flux measurement system using a calorimeter array on the divertor plate, to quantitatively evaluate the SOL width and assess how upstream fluctuations influence downstream energy flow.
 
-Feel free to contact me for collaboration or discussion on tokamak diagnostics and turbulence studies😊
+Feel free to contact me for collaboration or discussion on tokamak diagnostics and turbulence studies
     design:
       columns: '1'
   - block: collection
