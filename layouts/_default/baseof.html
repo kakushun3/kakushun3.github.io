@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {{ partial "head.html" . }}
+    {{ partial "hooks/head-end/favicon.html" . }}
+  </head>
+  <body>
+    {{ block "main" . }}{{ end }}
+  </body>
+</html>
