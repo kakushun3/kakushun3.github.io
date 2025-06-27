@@ -35,13 +35,13 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-       I’m currently a master’s student at Kyushu University, majoring in Plasma and Quantum Science and Engineering. My research focuses on magnetic turbulence and energy transport in the Scrape-Off Layer (SOL) of the spherical tokamak QUEST.
+        I’m currently a master’s student at Kyushu University, majoring in Plasma and Quantum Science and Engineering. My research focuses on magnetic turbulence and energy transport in the Scrape-Off Layer (SOL) of the spherical tokamak QUEST.
+    
+        I investigate magnetic fluctuations in the SOL using a fast movable probe (FMP) combined with new diagnostic techniques. By comparing experimental results with simulations, I aim to clarify the generation mechanisms of magnetic fluctuations and their impact on cross-field transport.
 
-I investigate magnetic fluctuations in the SOL using a fast movable probe (FMP) combined with new diagnostic techniques. By comparing experimental results with simulations, I aim to clarify the generation mechanisms of magnetic fluctuations and their impact on cross-field transport.
+        I also develop and apply a heat flux measurement system using a calorimeter array on the divertor plate, to quantitatively evaluate the SOL width and assess how upstream fluctuations influence downstream energy flow.
 
-I also develop and apply a heat flux measurement system using a calorimeter array on the divertor plate, to quantitatively evaluate the SOL width and assess how upstream fluctuations influence downstream energy flow.
-
-Feel free to contact me for collaboration or discussion on tokamak diagnostics and turbulence studies
+        Feel free to contact me for collaboration or discussion on tokamak diagnostics and turbulence studies
     design:
       columns: '1'
   - block: collection
