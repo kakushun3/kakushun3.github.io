@@ -1,7 +1,3 @@
-# Configuration of Hugo
-# Guide: https://docs.hugoblox.com/tutorial/
-# Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
-# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Website name
 title: Guo Jun | Plasma & Fusion Research
@@ -13,9 +9,21 @@ baseURL: 'https://example.com/'
 ############################
 
 defaultContentLanguage: en
-hasCJKLanguage: false
-defaultContentLanguageInSubdir: false
+defaultContentLanguageInSubdir: true
+hasCJKLanguage: true  # 支持中文日文换行优化
 removePathAccents: true
+
+languages:
+  en:
+    languageName: English
+    weight: 1
+  zh:
+    languageName: 中文
+    weight: 2
+  ja:
+    languageName: 日本語
+    weight: 3
+
 
 ############################
 ## ADVANCED
