@@ -3,8 +3,8 @@
 #   Documentation: https://docs.hugoblox.com/reference/language/
 
 # Default language
-en:
-  languageCode: en-us
+#en:
+  #languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   #contentDir: content/en
 
@@ -20,3 +20,56 @@ en:
 #      - name: 传
 #        url: '#about'
 #        weight: 1
+en:
+  languageCode: en-us
+  contentDir: content/en
+  title: Guo Jun | Plasma & Fusion Research
+  params:
+    description: Research in plasma diagnostics and tokamak SOL physics.
+  menu:
+    main:
+      - name: About
+        url: '#about'
+        weight: 1
+      - name: Projects
+        url: '#projects'
+        weight: 2
+      - name: Publications
+        url: '#publications'
+        weight: 3
+
+zh:
+  languageCode: zh-Hans
+  contentDir: content/zh
+  title: 郭俊｜等离子体与聚变研究
+  params:
+    description: 聚变边界层热输运与探针诊断研究。
+  menu:
+    main:
+      - name: 关于我
+        url: '#about'
+        weight: 1
+      - name: 项目
+        url: '#projects'
+        weight: 2
+      - name: 论文
+        url: '#publications'
+        weight: 3
+
+ja:
+  languageCode: ja
+  contentDir: content/ja
+  title: 郭俊｜プラズマ・核融合研究
+  params:
+    description: トカマクSOLと熱輸送、診断技術に関する研究。
+  menu:
+    main:
+      - name: 自己紹介
+        url: '#about'
+        weight: 1
+      - name: プロジェクト
+        url: '#projects'
+        weight: 2
+      - name: 論文
+        url: '#publications'
+        weight: 3
