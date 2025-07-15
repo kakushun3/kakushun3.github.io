@@ -1,25 +1,8 @@
-# Languages
-#   Create a section for each of your site's languages.
-#   Documentation: https://docs.hugoblox.com/reference/language/
+# 设置默认语言为英文
+defaultContentLanguage: en
+defaultContentLanguageInSubdir: true
 
-# Default language
-#en:
-  #languageCode: en-us
-  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
-
-# Uncomment the lines below to configure your website in a second language.
-#zh:
-#  languageCode: zh-Hans
-#  contentDir: content/zh
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+# 多语言配置
 en:
   languageCode: en-us
   contentDir: content/en
@@ -35,6 +18,42 @@ en:
         url: '#projects'
         weight: 2
       - name: Publications
+        url: '#publications'
+        weight: 3
+
+zh:
+  languageCode: zh-Hans
+  contentDir: content/zh
+  title: 郭骏 | 等离子体与聚变研究
+  params:
+    description: 聚变装置边界层物理与诊断研究
+  menu:
+    main:
+      - name: 关于
+        url: '#about'
+        weight: 1
+      - name: 项目
+        url: '#projects'
+        weight: 2
+      - name: 发表
+        url: '#publications'
+        weight: 3
+
+ja:
+  languageCode: ja
+  contentDir: content/ja
+  title: 郭駿 | プラズマと核融合研究
+  params:
+    description: トカマク装置の周辺プラズマ物理と診断技術
+  menu:
+    main:
+      - name: 概要
+        url: '#about'
+        weight: 1
+      - name: プロジェクト
+        url: '#projects'
+        weight: 2
+      - name: 論文
         url: '#publications'
         weight: 3
 
