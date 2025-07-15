@@ -1,16 +1,13 @@
-
 # Website name
 title: Guo Jun | Plasma & Fusion Research
-# Website URL
-baseURL: 'https://example.com/'
 
-############################
-## LANGUAGE
-############################
+# Website URL（替换为你的 GitHub Pages 链接）
+baseURL: "https://kakushun3.github.io/"
 
+# Language Settings
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: true
-hasCJKLanguage: true  # 支持中文日文换行优化
+hasCJKLanguage: true
 removePathAccents: true
 
 languages:
@@ -71,12 +68,7 @@ languages:
           url: '#publications'
           weight: 3
 
-
-
-############################
-## ADVANCED
-############################
-
+# Advanced
 build:
   writeStats: true
 enableGitInfo: false
@@ -110,4 +102,4 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
- 
+
